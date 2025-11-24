@@ -1,6 +1,6 @@
 name: advancedWorkflow
 env:
-WORKFLOW_VAR: "This variable is declared at the workflow level"
+  WORKFLOW_VAR: "This variable is declared at the workflow level"
 on:
   workflow_dispatch:
   
